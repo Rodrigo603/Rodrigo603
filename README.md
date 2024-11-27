@@ -1,11 +1,14 @@
 <h1 align="center">Rodrigo José Dantas de Oliveira </h1>
 <h2> Sobre mim: </h2>
 Me chamo Rodrigo, Tenho 19 anos, sou de Recife, Pernambuco , Atualmente estou cursando o primeiro período de CC na CESAR School
+
+
 - 📫 Email para contato **rodrigo6031@gmail.com**
 ---
 
 <h3> Projetos </h3>
 - projeto CRUD em Python [https://github.com/Artur-Antunes-1/Projeto-FP.git](https://github.com/Artur-Antunes-1/Projeto-FP.git)
+
 
 - Projeto Cultural steps com Arduino para cadeira de Projetos 1
 
