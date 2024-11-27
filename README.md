@@ -1,20 +1,22 @@
 <h1 align="center">Rodrigo José Dantas de Oliveira </h1>
-<h3> Sobre mim: </h3>
+<h2> Sobre mim: </h2>
 Me chamo Rodrigo, Tenho 19 anos, sou de Recife, Pernambuco , Atualmente estou cursando o primeiro período de CC na CESAR School
 ---
 
-**Projetos**
+<h2> **Projetos** </h2>
 - projeto CRUD em Python [https://github.com/Artur-Antunes-1/Projeto-FP.git](https://github.com/Artur-Antunes-1/Projeto-FP.git)
 - Projeto Cultural steps com Arduino para cadeira de Projetos 1
 
 ---
 
 
-**Objetivos**
+<h2> **Objetivos** </h2>
 
 - Desejo me tornar um bom desenvolvedor back-end, e trabalhar com criação de jogos.
-  
-**Soft Skills**
+
+---
+
+<h2> **Soft Skills** </h2>
 
 -Me comunico muito bem, sempre faço o melhor que posso com qualquer atividade.
 
