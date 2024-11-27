@@ -1,5 +1,8 @@
 <h1 align="center">Olá, Sou Rodrigo</h1>
 <h3 align="center">Estudante de Ciência da Computação na CESAR School</h3>
+Me chamo Rodrigo, Tenho 19 anos, Atualmente estou no primeiro período de CC na CESAR School, sonho em ser um desenvolvedor back-end 
+e desenvolvedor de jogos. Até o momento fiz um projeto CRUD, e estou finalizando um projeto de Arduino para cadeira de Projetos 1.
+
 
 - 🌱 Estou aprendendo **C e Django**
 
