@@ -3,20 +3,21 @@
 Me chamo Rodrigo, Tenho 19 anos, sou de Recife, Pernambuco , Atualmente estou cursando o primeiro período de CC na CESAR School
 ---
 
-<h2> **Projetos** </h2>
+<h3> Projetos </h3>
 - projeto CRUD em Python [https://github.com/Artur-Antunes-1/Projeto-FP.git](https://github.com/Artur-Antunes-1/Projeto-FP.git)
+
 - Projeto Cultural steps com Arduino para cadeira de Projetos 1
 
 ---
 
 
-<h2> **Objetivos** </h2>
+<h3> Objetivos </h3>
 
 - Desejo me tornar um bom desenvolvedor back-end, e trabalhar com criação de jogos.
 
 ---
 
-<h2> **Soft Skills** </h2>
+<h3> Soft Skills </h3>
 
 -Me comunico muito bem, sempre faço o melhor que posso com qualquer atividade.
 
