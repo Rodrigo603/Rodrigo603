@@ -9,16 +9,17 @@ Me chamo Rodrigo, Tenho 19 anos, sou de Recife, Pernambuco , Atualmente estou cu
 
 ---
 
-- 🌱 Estou aprendendo **C e Django**
-
---- 
 
 **Objetivos**
+
 - Desejo me tornar um bom desenvolvedor back-end, e trabalhar com criação de jogos.
   
 **Soft Skills**
+
 -Me comunico muito bem, sempre faço o melhor que posso com qualquer atividade.
+
 -Trabalho muito bem em equipe, faço de tudo para um bom convívio.
+
 
 - 📫 Email para contato **rodrigo6031@gmail.com**
 
