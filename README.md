@@ -34,7 +34,7 @@ Me chamo Rodrigo, Tenho 19 anos, sou de Recife, Pernambuco , Atualmente estou cu
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigo dantas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo dantas" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rodrigodantas603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo dantas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e frameworks:</h3>
