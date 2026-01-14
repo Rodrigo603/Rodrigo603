@@ -1,6 +1,6 @@
 <h1 align="center">Rodrigo José Dantas de Oliveira </h1>
 <h2> Sobre mim: </h2>
-Me chamo Rodrigo, Tenho 19 anos, sou de Recife, Pernambuco , Atualmente estou cursando o primeiro período de CC na CESAR School
+Me chamo Rodrigo, Tenho 20 anos, sou de Recife, Pernambuco , Atualmente estou cursando o primeiro período de CC na CESAR School
 
 
 - 📫 Email para contato **rodrigo6031@gmail.com**
